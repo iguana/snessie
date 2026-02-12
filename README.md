@@ -1,5 +1,7 @@
 # SNESser
 
+![SNESser Tetris](snessie.png)
+
 A batteries-included framework and build chain for SNES games in 65816 assembly. Creates ROMs that run on emulators (OpenEmu, bsnes, Mesen-S) or real hardware via flash carts.
 
 ## What's Included
